@@ -1,9 +1,11 @@
 # README
 
 1. Clone this project
-2. Save **master key** in the **config** folder
-3. run `rails c` in terminal
-4. create api sevvice
+3. Save **master key** in the **config** folder
+4. run `bundle` in terminal (installs the gems)
+5. ran `yarn` in terminal (installs the packages)
+6. run `rails c` in terminal (opens rails console)
+7. create api sevvice
 'api_service = ApiService.new(amount)'
 amount - order amount
 5. register order in Alfa-Bank system
