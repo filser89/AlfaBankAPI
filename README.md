@@ -1,7 +1,7 @@
 # README
 
 1. Clone this project
-2. Save **master key** in the root folder
+2. Save **master key** in the **config** folder
 3. run `rails c` in terminal
 4. create api sevvice
 'api_service = ApiService.new(amount)'
